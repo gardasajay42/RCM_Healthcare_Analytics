@@ -1,0 +1,51 @@
+facility_id,facility_name,facility_type,city,state,zip_code,region,bed_count,is_active
+FAC01,Henrico General,Acute Care,Richmond,VA,23205,Coastal VA,300,1
+FAC02,Chippenham Hospital,Outpatient,Norfolk,VA,23210,Central VA,139,1
+FAC03,Bon Secours St Mary,Critical Access,Richmond,VA,23215,Central VA,145,1
+FAC04,VCU Health System,Outpatient,Norfolk,VA,23220,Central VA,253,1
+FAC05,Sentara RMH,Critical Access,Norfolk,VA,23225,Western VA,334,1
+FAC06,Johnston Willis,Acute Care,Norfolk,VA,23230,Western VA,398,1
+FAC07,Parham Medical,Specialty,Norfolk,VA,23235,Northern VA,394,1
+FAC08,Retreat Doctors,Acute Care,Richmond,VA,23240,Western VA,149,1
+FAC09,Sheltering Arms,Specialty,Virginia Beach,VA,23245,Coastal VA,94,1
+FAC10,RVA Medical Center,Critical Access,Charlottesville,VA,23250,Central VA,437,1
+FAC11,Henrico General Branch 11,Acute Care,Charlottesville,VA,23255,Coastal VA,420,1
+FAC12,Chippenham Hospital Branch 12,Outpatient,Richmond,VA,23260,Central VA,283,1
+FAC13,Bon Secours St Mary Branch 13,Specialty,Richmond,VA,23265,Northern VA,153,1
+FAC14,VCU Health System Branch 14,Critical Access,Virginia Beach,VA,23270,Western VA,423,1
+FAC15,Sentara RMH Branch 15,Outpatient,Virginia Beach,VA,23275,Coastal VA,264,1
+FAC16,Johnston Willis Branch 16,Specialty,Richmond,VA,23280,Northern VA,596,1
+FAC17,Parham Medical Branch 17,Outpatient,Norfolk,VA,23285,Western VA,438,1
+FAC18,Retreat Doctors Branch 18,Specialty,Charlottesville,VA,23290,Northern VA,382,1
+FAC19,Sheltering Arms Branch 19,Acute Care,Norfolk,VA,23295,Central VA,373,1
+FAC20,RVA Medical Center Branch 20,Critical Access,Virginia Beach,VA,23300,Central VA,266,1
+FAC21,Henrico General Branch 21,Specialty,Norfolk,VA,23305,Western VA,455,1
+FAC22,Chippenham Hospital Branch 22,Critical Access,Norfolk,VA,23310,Coastal VA,192,1
+FAC23,Bon Secours St Mary Branch 23,Outpatient,Charlottesville,VA,23315,Coastal VA,488,1
+FAC24,VCU Health System Branch 24,Critical Access,Virginia Beach,VA,23320,Northern VA,191,1
+FAC25,Sentara RMH Branch 25,Critical Access,Richmond,VA,23325,Central VA,162,1
+FAC26,Johnston Willis Branch 26,Outpatient,Norfolk,VA,23330,Western VA,115,1
+FAC27,Parham Medical Branch 27,Critical Access,Roanoke,VA,23335,Western VA,591,1
+FAC28,Retreat Doctors Branch 28,Specialty,Charlottesville,VA,23340,Central VA,167,1
+FAC29,Sheltering Arms Branch 29,Specialty,Virginia Beach,VA,23345,Central VA,350,1
+FAC30,RVA Medical Center Branch 30,Critical Access,Norfolk,VA,23350,Western VA,53,1
+FAC31,Henrico General Branch 31,Specialty,Charlottesville,VA,23355,Northern VA,569,1
+FAC32,Chippenham Hospital Branch 32,Acute Care,Virginia Beach,VA,23360,Northern VA,206,1
+FAC33,Bon Secours St Mary Branch 33,Specialty,Norfolk,VA,23365,Central VA,381,1
+FAC34,VCU Health System Branch 34,Critical Access,Richmond,VA,23370,Central VA,421,1
+FAC35,Sentara RMH Branch 35,Specialty,Norfolk,VA,23375,Central VA,296,1
+FAC36,Johnston Willis Branch 36,Acute Care,Richmond,VA,23380,Western VA,120,1
+FAC37,Parham Medical Branch 37,Outpatient,Norfolk,VA,23385,Western VA,219,1
+FAC38,Retreat Doctors Branch 38,Specialty,Charlottesville,VA,23390,Western VA,266,1
+FAC39,Sheltering Arms Branch 39,Outpatient,Virginia Beach,VA,23395,Western VA,432,1
+FAC40,RVA Medical Center Branch 40,Critical Access,Charlottesville,VA,23400,Western VA,173,1
+FAC41,Henrico General Branch 41,Outpatient,Norfolk,VA,23405,Central VA,396,1
+FAC42,Chippenham Hospital Branch 42,Acute Care,Charlottesville,VA,23410,Northern VA,275,1
+FAC43,Bon Secours St Mary Branch 43,Acute Care,Richmond,VA,23415,Central VA,284,1
+FAC44,VCU Health System Branch 44,Acute Care,Richmond,VA,23420,Coastal VA,122,1
+FAC45,Sentara RMH Branch 45,Outpatient,Virginia Beach,VA,23425,Western VA,269,1
+FAC46,Johnston Willis Branch 46,Outpatient,Charlottesville,VA,23430,Western VA,298,1
+FAC47,Parham Medical Branch 47,Critical Access,Roanoke,VA,23435,Northern VA,146,1
+FAC48,Retreat Doctors Branch 48,Acute Care,Roanoke,VA,23440,Coastal VA,483,1
+FAC49,Sheltering Arms Branch 49,Critical Access,Roanoke,VA,23445,Central VA,150,1
+FAC50,RVA Medical Center Branch 50,Acute Care,Roanoke,VA,23450,Coastal VA,161,1
